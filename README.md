@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Isabelle Lo.
+- 👀 I’m interested in the intersection between hardware and software.
+- 🌱 I’m currently learning AutoCAD, Altium and C.
+- 📫 My email is isabelle2263@gmail.com
+- 😄 Pronouns: she/her
